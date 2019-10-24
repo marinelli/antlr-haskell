@@ -1,6 +1,3 @@
-resolver: nightly-2019-04-10
-#resolver: lts-12.19
-
+resolver: lts-14.11
 packages:
 - .
-
